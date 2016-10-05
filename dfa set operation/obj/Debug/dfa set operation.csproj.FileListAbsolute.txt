@@ -1,0 +1,5 @@
+C:\Users\bhuva.DESKTOP-SGK8CSV\Documents\Visual Studio 2008\Projects\dfa set operation\dfa set operation\bin\Debug\dfa set operation.exe
+C:\Users\bhuva.DESKTOP-SGK8CSV\Documents\Visual Studio 2008\Projects\dfa set operation\dfa set operation\bin\Debug\dfa set operation.pdb
+C:\Users\bhuva.DESKTOP-SGK8CSV\Documents\Visual Studio 2008\Projects\dfa set operation\dfa set operation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bhuva.DESKTOP-SGK8CSV\Documents\Visual Studio 2008\Projects\dfa set operation\dfa set operation\obj\Debug\dfa set operation.exe
+C:\Users\bhuva.DESKTOP-SGK8CSV\Documents\Visual Studio 2008\Projects\dfa set operation\dfa set operation\obj\Debug\dfa set operation.pdb
